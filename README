@@ -1,0 +1,6 @@
+This program is a menu-driven Inventory Management System for up to 10 products.
+It stores Product ID, Name, Quantity, and Price using parallel arrays.
+The user can input products, display all items, and search by ID.
+It also calculates total inventory value and finds highest/lowest value products.
+The program uses only loops, arrays, and conditionals—no functions or structures.
+
